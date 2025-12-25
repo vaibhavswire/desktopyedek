@@ -1,12 +1,7 @@
 JupiterLabs
 SatDump.apk for android
-Frostbyte.apk for android
-Aredn for Proxmox
-Amazon App store apk (FDroid, UptoDown and Aurora are good too)
 MouseMux for Win11
 TobyProLab for Win11
 Zotero
 Mendeley Reference Manager
-OllamaSetup with Dolphin L3
-Prometheus for analytics
 Oracle Developer Studio IDE Desktop
