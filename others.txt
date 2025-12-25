@@ -1,7 +1,5 @@
-JupiterLabs
 SatDump.apk for android
 MouseMux for Win11
 TobyProLab for Win11
 Zotero
-Mendeley Reference Manager
-Oracle Developer Studio IDE Desktop
+Oracle Developer Studio VBExtension
