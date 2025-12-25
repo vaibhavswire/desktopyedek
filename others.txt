@@ -1,5 +1,3 @@
-SatDump.apk for android
 MouseMux for Win11
 TobyProLab for Win11
-Zotero
 Oracle Developer Studio VBExtension
